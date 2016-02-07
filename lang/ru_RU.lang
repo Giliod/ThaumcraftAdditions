@@ -13,10 +13,10 @@ death.attack.thaumicadditions:singularity=%s был разщеплён на ча
 ##ITEMS
 item.thaumicadditions:singularity.name=Магическая Сингулярность
 item.thaumicadditions:seal_symbol.name=Символ печати
-item.thaumicadditions:singcore.name=Ядро черной дыри
+item.thaumicadditions:singcore.name=Ядро черной дыры
 item.thaumicadditions:depleted_shard.name=Опустошённый кристалл
 item.thaumicadditions:seal_globe.name=Печатный Шар
-item.thaumicadditions:soul_fragment.name=Фрагмент душы
+item.thaumicadditions:soul_fragment.name=Фрагмент души
 item.thaumicadditions:infuser_book.name=Книга крафтов на наполнителе
 item.thaumicadditions:dark_infuser_book.name=Книга крафтов на тёмном наполнителе
 item.thaumicadditions:inert_keystone.name=Древний ключ: Инертный
@@ -226,7 +226,7 @@ tc.research_text.SEALSYMBOLLER=Жизнь с цветами!
 r_symboller.text=После изучения магических символов вы поняли, что они бесполезны. Но теперь, с помощью магии вы создали устройство, которое может поглотить эссенцию из банки, размещенной с верхней стороны, вливая в магический символ эссенцию. Теперь вы можете играть с символами печати и магическими печатями.
 
 #SINGULARITYCORE
-tc.research_name.SINGULARITYCORE=Ядро черной дыри
+tc.research_name.SINGULARITYCORE=Ядро черной дыры
 tc.research_text.SINGULARITYCORE=Ещё темнее, чем эндермен.
 r_singcore.text=Исследование свойств мифриллиумовых слитков вас привело к теории, что можно сделать ядро черной дыры. Да, еще ядро дыры не опасно для окружающего мира, но можете ли вы пробудить могучие силы всасывать все, и разделения всего вокруг на частицы?
 
